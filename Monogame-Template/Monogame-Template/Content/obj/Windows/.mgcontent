@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/_MonoGame/Monogame Template/Monogame-Template/Monogame-Template/Monogame-Template/Content/Font/NormalFont.spritefont</File>
+    <File>E:/_MonoGame/Monogame Template/Monogame-Template/Monogame-Template/Monogame-Template/Content/Texture/Environment/Background/Preview1.gif</File>
+    <File>E:/_MonoGame/Monogame Template/Monogame-Template/Monogame-Template/Monogame-Template/Content/Texture/Player/playerImage.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
