@@ -4,9 +4,9 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>E:/_MonoGame/Monogame Template/Monogame-Template/Monogame-Template/Monogame-Template/Content/Font/NormalFont.spritefont</File>
-    <File>E:/_MonoGame/Monogame Template/Monogame-Template/Monogame-Template/Monogame-Template/Content/Texture/Environment/Background/Preview1.gif</File>
-    <File>E:/_MonoGame/Monogame Template/Monogame-Template/Monogame-Template/Monogame-Template/Content/Texture/Player/playerImage.png</File>
+    <File>C:/Users/Jonas/Documents/GitHub/Monogame-Template/Monogame-Template/Monogame-Template/Content/Font/NormalFont.spritefont</File>
+    <File>C:/Users/Jonas/Documents/GitHub/Monogame-Template/Monogame-Template/Monogame-Template/Content/Texture/Environment/Background/Preview1.gif</File>
+    <File>C:/Users/Jonas/Documents/GitHub/Monogame-Template/Monogame-Template/Monogame-Template/Content/Texture/Player/playerImage.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

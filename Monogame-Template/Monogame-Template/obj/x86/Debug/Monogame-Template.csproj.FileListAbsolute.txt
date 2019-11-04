@@ -24,3 +24,29 @@ E:\_MonoGame\Monogame Template\Monogame-Template\Monogame-Template\Monogame-Temp
 E:\_MonoGame\Monogame Template\Monogame-Template\Monogame-Template\Monogame-Template\bin\Windows\x86\Debug\Content\Texture\Player\playerImage.xnb
 E:\_MonoGame\Monogame Template\Monogame-Template\Monogame-Template\Monogame-Template\bin\Windows\x86\Debug\Content\Texture\Environment\Background\Preview1.xnb
 E:\_MonoGame\Monogame Template\Monogame-Template\Monogame-Template\Monogame-Template\bin\Windows\x86\Debug\Content\Font\NormalFont.xnb
+C:\Users\Jonas\Documents\GitHub\Monogame-Template\Monogame-Template\Monogame-Template\bin\Windows\x86\Debug\Content\Texture\Player\playerImage.xnb
+C:\Users\Jonas\Documents\GitHub\Monogame-Template\Monogame-Template\Monogame-Template\bin\Windows\x86\Debug\Content\Texture\Environment\Background\Preview1.xnb
+C:\Users\Jonas\Documents\GitHub\Monogame-Template\Monogame-Template\Monogame-Template\bin\Windows\x86\Debug\Content\Font\NormalFont.xnb
+C:\Users\Jonas\Documents\GitHub\Monogame-Template\Monogame-Template\Monogame-Template\bin\Windows\x86\Debug\Monogame-Template.exe
+C:\Users\Jonas\Documents\GitHub\Monogame-Template\Monogame-Template\Monogame-Template\bin\Windows\x86\Debug\Monogame-Template.pdb
+C:\Users\Jonas\Documents\GitHub\Monogame-Template\Monogame-Template\Monogame-Template\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Jonas\Documents\GitHub\Monogame-Template\Monogame-Template\Monogame-Template\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Jonas\Documents\GitHub\Monogame-Template\Monogame-Template\Monogame-Template\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Jonas\Documents\GitHub\Monogame-Template\Monogame-Template\Monogame-Template\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Jonas\Documents\GitHub\Monogame-Template\Monogame-Template\Monogame-Template\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Jonas\Documents\GitHub\Monogame-Template\Monogame-Template\Monogame-Template\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Jonas\Documents\GitHub\Monogame-Template\Monogame-Template\Monogame-Template\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Jonas\Documents\GitHub\Monogame-Template\Monogame-Template\Monogame-Template\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Jonas\Documents\GitHub\Monogame-Template\Monogame-Template\Monogame-Template\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Jonas\Documents\GitHub\Monogame-Template\Monogame-Template\Monogame-Template\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Jonas\Documents\GitHub\Monogame-Template\Monogame-Template\Monogame-Template\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Jonas\Documents\GitHub\Monogame-Template\Monogame-Template\Monogame-Template\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Jonas\Documents\GitHub\Monogame-Template\Monogame-Template\Monogame-Template\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Jonas\Documents\GitHub\Monogame-Template\Monogame-Template\Monogame-Template\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Jonas\Documents\GitHub\Monogame-Template\Monogame-Template\Monogame-Template\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Jonas\Documents\GitHub\Monogame-Template\Monogame-Template\Monogame-Template\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Jonas\Documents\GitHub\Monogame-Template\Monogame-Template\Monogame-Template\obj\x86\Debug\Monogame-Template.csprojAssemblyReference.cache
+C:\Users\Jonas\Documents\GitHub\Monogame-Template\Monogame-Template\Monogame-Template\obj\x86\Debug\Monogame-Template.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Documents\GitHub\Monogame-Template\Monogame-Template\Monogame-Template\obj\x86\Debug\Monogame-Template.csproj.CopyComplete
+C:\Users\Jonas\Documents\GitHub\Monogame-Template\Monogame-Template\Monogame-Template\obj\x86\Debug\Monogame-Template.exe
+C:\Users\Jonas\Documents\GitHub\Monogame-Template\Monogame-Template\Monogame-Template\obj\x86\Debug\Monogame-Template.pdb
