@@ -22,6 +22,7 @@ namespace Monogame_Template
 
         public override void Update(GameTime gameTime)
         {
+            ///hej
             throw new NotImplementedException();
         }
     }
