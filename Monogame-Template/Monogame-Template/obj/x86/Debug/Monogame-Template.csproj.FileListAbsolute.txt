@@ -24,3 +24,4 @@ E:\_MonoGame\Monogame Template\Monogame-Template\Monogame-Template\Monogame-Temp
 E:\_MonoGame\Monogame Template\Monogame-Template\Monogame-Template\Monogame-Template\bin\Windows\x86\Debug\Content\Texture\Player\playerImage.xnb
 E:\_MonoGame\Monogame Template\Monogame-Template\Monogame-Template\Monogame-Template\bin\Windows\x86\Debug\Content\Texture\Environment\Background\Preview1.xnb
 E:\_MonoGame\Monogame Template\Monogame-Template\Monogame-Template\Monogame-Template\bin\Windows\x86\Debug\Content\Font\NormalFont.xnb
+E:\_MonoGame\Monogame Template\Monogame-Template\Monogame-Template\Monogame-Template\bin\Windows\x86\Debug\Content\Texture\Enemys\Goblin\goblinsword.xnb

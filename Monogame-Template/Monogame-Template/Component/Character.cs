@@ -9,7 +9,7 @@ namespace Monogame_Template
 {
     public abstract class Character : GameObject
     {
-        public float speed = 500;
+        public float speed = 250;
         public Vector2 velocity;
         public virtual void Move(GameTime gameTime)
         {

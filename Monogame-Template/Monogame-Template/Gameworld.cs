@@ -50,6 +50,11 @@ namespace Monogame_Template
             gameObjects.Add(player);
             gameObjects.Add(new Background());
 
+            foreach (GameObject go in gameObjects)
+            {
+                go.Initialize();
+            }
+
             base.Initialize();
 
         }

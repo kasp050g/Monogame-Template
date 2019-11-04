@@ -18,14 +18,15 @@ namespace Monogame_Template
         public Vector2 origin;
         public Texture2D sprite;
         public float layerDepth = 0;
+        
 
         public Vector2 screenSize;
 
         #region Animate Value's
         public Texture2D[] sprites;
-        public float fps;
-        private float timeElapsed;
-        private int currentIndex;
+        protected float fps = 10;
+        protected float timeElapsed;
+        protected int currentIndex;
         #endregion
 
         public virtual void Awake()
@@ -44,7 +45,7 @@ namespace Monogame_Template
 
         public void Draw(SpriteBatch spriteBatch)
         {
-            spriteBatch.Draw(sprite, transform.position, null, Color.White, transform.rotation, origin, transform.scale, SpriteEffects.None, layerDepth);
+            spriteBatch.Draw(sprite, transform.position, rectangle, Color.White, transform.rotation, origin, transform.scale, SpriteEffects.None, layerDepth);
         }
 
         public virtual void Animate(GameTime gameTime)
@@ -66,7 +67,18 @@ namespace Monogame_Template
             }
         }
 
-
+        public virtual Rectangle rectangle
+        {
+            get
+            {
+                return new Rectangle(
+                    0,
+                    0,
+                    sprite.Width,
+                    sprite.Height
+                    );
+            }
+        }
 
         public virtual Rectangle CollisionBox
         {

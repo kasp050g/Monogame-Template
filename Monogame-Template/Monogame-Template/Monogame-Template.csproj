@@ -41,9 +41,12 @@
     <ApplicationManifest>app.manifest</ApplicationManifest>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Component\Animation\AnimationContainer.cs" />
+    <Compile Include="Component\Animation\Facing.cs" />
     <Compile Include="Component\AudioPlayer.cs" />
     <Compile Include="Component\Camera.cs" />
     <Compile Include="Component\Character.cs" />
+    <Compile Include="Component\Animation\DoAnimate.cs" />
     <Compile Include="Component\GameObject.cs" />
     <Compile Include="Component\Stat.cs" />
     <Compile Include="Component\Transform.cs" />
@@ -62,6 +65,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\Texture\Enemys\Goblin\goblinsword.png" />
     <Content Include="Content\Texture\Environment\Background\Preview1.gif" />
     <Content Include="Content\Texture\Player\playerImage.png" />
     <Content Include="Icon.ico" />
@@ -74,7 +78,6 @@
   <ItemGroup>
     <Folder Include="Content\Audio\Music\" />
     <Folder Include="Content\Audio\SoundEffect\" />
-    <Folder Include="Content\Texture\Enemys\" />
     <Folder Include="Content\Texture\UI\" />
     <Folder Include="UI\" />
   </ItemGroup>
